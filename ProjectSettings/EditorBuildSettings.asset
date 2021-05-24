@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Home/Home.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Placement/BoardPlacement.unity
+    guid: fc7a51917979536498271fd068786c8f
+  - enabled: 1
+    path: Assets/Placement/ARTestScene.unity
+    guid: b71c5f0d23e5e5f4ab8d343f3ebfce77
+  - enabled: 1
+    path: Assets/Game/Game.unity
+    guid: 935e48e37c868f94a9898e3ba32a8acd
+  - enabled: 0
+    path: Assets/Game/PowerUI.unity
+    guid: 0e2eac393215e794a952a6aa9c1eda86
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 46d5e0f3044f30243a86709c4833cdf8,
+      type: 2}
